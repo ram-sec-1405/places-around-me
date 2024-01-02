@@ -33,10 +33,6 @@ map.html
 <h1 align="center">
 <font color="red"><b>Ramanathapuram</b></font>
 </h1>
-<h3 align="center">
-<font color="blue"><b> Mohamed Asil (23013491)</b></font>
-</h3>
-<center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
 <map name="MyCity">
 <area shape="rect" coords="610,300,750,370" href="home.html" title="My Home Town">
